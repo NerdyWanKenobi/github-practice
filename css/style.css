@@ -1,0 +1,87 @@
+#navbar {
+    overflow: hidden;
+    background-color: #333;
+    display: block;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    color: white;
+    float: left;
+    margin-right: 25px;
+}
+
+body {
+    background-image: linear-gradient(#8899ac, #c7cad1, white);
+    color: black;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font: 30pt sans-serif;
+}
+
+p {
+    font: 12pt sans-serif;
+}
+
+a {
+    font: 12pt sans-serif;
+}
+
+#navbar {
+    font: 12pt sans-serif;
+    color: white;
+}
+
+h2 {
+    font: 25pt sans-serif;
+}
+
+ul {
+    font: 12pt sans-serif;
+}
+
+ol {
+    font: 12pt sans-serif;
+}
+
+img {
+    float: left;
+    padding-right: 25px;
+}
+
+a:link {
+    color: orange;
+}
+
+a:active {
+    color: cyan;
+}
+
+a:hover {
+    color: cyan;
+}
+
+p a:hover {
+    color: cyan;
+}
+
+a:visited {
+    color: greenyellow;
+}
+
+.dark-mode {
+    background-color: #22303c;
+    background-image: linear-gradient(black, #38352e, #22303c);
+    color: white;
+    background-repeat: no-repeat;
+    background-image: stretch;
+}
+
+.link {
+    text-decoration: none;
+}
+
+div a:hover {
+    color: cyan;
+}
